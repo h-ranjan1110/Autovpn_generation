@@ -14,9 +14,11 @@ step 3- Downlaod this two files from repo
         cronscript.py
 
 step 4- Place both files in same directory .
+
 step 5- Now open vpn.py file and edit the username and password variable according to your choice of username and  password.
 
 Step 6- open terminal in this directory.
+
 step 7- Run cronscript.py. Type the below command in terminal.
         python cronscript.py
 
@@ -26,8 +28,10 @@ step 7- Run cronscript.py. Type the below command in terminal.
 
 
 step 8- A txt file with name cron_list.txt will be generated in the same directory.Now open it and copy all the lines inside it.
+
 step 9- Type    sudo crontab -e    in the terminal (if you are writing this command for first time ,you will be asked about your                                        
         choice of editor ,select any editor of your choice.)
+
 step 10- Paste the copied lines at end of this file which just opened and save the file .
 
 Finally you are done ,now your vpn account will get auto renewed after seven days. 
