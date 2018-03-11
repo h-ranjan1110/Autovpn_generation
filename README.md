@@ -1,4 +1,5 @@
-This is a script that will auto renew your vpn account which becomes invalid after seven days.
+Do you always have to always create 
+This is a script that will auto renew your vpn account.
 
 For this you will have to first set up your vpn settings in network settings.You will have to do this only for the first time.
 
