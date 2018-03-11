@@ -22,11 +22,12 @@ step 5- Now open vpn.py file and edit the username and password variable accordi
 Step 6- open terminal in this directory.
 
 step 7- Run cronscript.py. Type the below command in terminal.
+        
         python cronscript.py
 
 
-        Enter the info as per asked.
-        Don't forget to enter full path when asked .Check for "vpn.py" at the end of the path.
+*Enter the info as per asked.
+*Don't forget to enter full path when asked .Check for "vpn.py" at the end of the path.
 
 
 step 8- A txt file with name cron_list.txt will be generated in the same directory.Now open it and copy all the lines inside it.
