@@ -24,24 +24,11 @@ log=str(min)+" "+str(hr)+" "+"*"+" "+"*"+" "+str(day)+" "+"python"+" "+path
 
 
 os.system("python"+" "+"vpn.py")
-#os.system("export EDITOR=nano")
+
 f=open("cron_list.txt","w+")
 f.write(log)
-#f.write("\n")
-f.seek(0,2)
-#last_pos = f.tell()  # get to know the current position in the file
-#last_pos = last_pos + 5
-#f.seek(last_pos)  # to change the current po
-#f.write(path)
-#f.seek(0,2)
 
-#f.seek(last_pos)
-#pos=f.tell()
+f.seek(0,2)
 
 f.close()
-#print(pos)
-#f1=open("cron_list.txt","a")
-#f1.write("himanshu")
-#f1.close()
-#os.system("crontab cron_list.txt")
 
