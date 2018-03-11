@@ -27,13 +27,17 @@ step 7- Run cronscript.py. Type the below command in terminal.
 
 
 *Enter the info as per asked.
+
 *Don't forget to enter full path when asked .Check for "vpn.py" at the end of the path.
 
 
 step 8- A txt file with name cron_list.txt will be generated in the same directory.Now open it and copy all the lines inside it.
 
-step 9- Type    sudo crontab -e    in the terminal (if you are writing this command for first time ,you will be asked about your                                        
+step 9- Type the below command in the terminal (if you are writing this command for first time ,you will be asked about your                                        
         choice of editor ,select any editor of your choice.)
+        
+        
+        sudo crontab -e
 
 step 10- Paste the copied lines at end of this file which just opened and save the file .
 
