@@ -2,6 +2,19 @@ Do you always have to create your vpn account after few days?
 
 Here is a solution, this is a script that will auto renew your vpn account.
 
+You will need mechanize library of python.
+If you dont have this install this library .You can do this by using pip.
+
+
+         pip install mechanize
+or       
+
+         sudo pip install mechanize
+
+
+
+
+
 For this you will have to first set up your vpn settings in network settings.You will have to do this only for the first time.
 
 If you have already done this settings then skip to step-3.
@@ -12,8 +25,8 @@ Step 1- Download the configuration file for india2 sserver from this url.
 Step 2- Open settings and add this configuration file.
 
 step 3- Downlaod this two files from repo
-        1. vpn.py and 
-        2. cronscript.py
+        vpn.py and 
+        cronscript.py
 
 step 4- Place both files in same directory .
 
