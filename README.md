@@ -12,8 +12,8 @@ Step 1- Download the configuration file for india2 sserver from this url.
 Step 2- Open settings and add this configuration file.
 
 step 3- Downlaod this two files from repo
-        vpn.py
-        cronscript.py
+        1. vpn.py and 
+        2. cronscript.py
 
 step 4- Place both files in same directory .
 
