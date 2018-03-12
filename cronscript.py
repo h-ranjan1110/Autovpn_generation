@@ -43,3 +43,5 @@ f.write(log4)
 f.seek(0,2)
 
 f.close()
+os.system("chmod +x vpn.py")
+os.system("sudo ln -s path /etc/cron.daily/vpn")
