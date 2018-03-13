@@ -22,7 +22,7 @@ If you have already done this settings then skip to step-3.
 Step 1- Download the configuration file for india2 sserver from this url.
         http://www.vpnjantit.com/assets/in2.vpnjantit.com.zip
         
-Step 2- Open settings and add this configuration file.
+Step 2- Open settings and add this configuration file.(use port 443 for IITG proxy).
 
 step 3- Downlaod the repo files.
         
